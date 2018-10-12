@@ -1,4 +1,4 @@
-# KuprenasEtal2018
+# Kuprenas et al. (2018)
 
 All code in this repository is associated with the following paper:
 
