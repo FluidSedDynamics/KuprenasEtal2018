@@ -1,5 +1,7 @@
 # Kuprenas et al. (2018)
 
+[![DOI](https://zenodo.org/badge/152798079.svg)](https://zenodo.org/badge/latestdoi/152798079)
+
 All code in this repository is associated with the following paper:
 
 Kuprenas, R., D. Tran, and K. Strom. (2018), A shear‐limited flocculation model for dynamically predicting average floc size, Journal of Geophysical Research Oceans, doi: [10.1029/2018JC014154](https://doi.org/10.1029/2018JC014154)
